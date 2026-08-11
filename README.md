@@ -29,8 +29,13 @@
 
 تجربة رابط Lovable 
 https://lovable.dev/projects/ba4e36cd-6c16-485c-94ab-11c6c6ea434b
+
+
 تجربة موقع replit
 https://7baf8eb6-3fb8-487b-ab58-77b651ccc8d9-00-2pcyztq3th5ll.sisko.replit.dev/
 
+
+
 الوضع الحالي - الوضع المستقبلي
 https://claude.ai/public/artifacts/11dfd3d0-08b0-43db-ba28-27e39749b22b
+
