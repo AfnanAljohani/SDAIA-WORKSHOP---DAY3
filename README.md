@@ -1,6 +1,7 @@
 اليوم الثالث - ورشة سدايا 
 سد الفجوة التصميمية
-من خلال دمج الذكاء الاصطناعي - : رفع الإنتاجية وتحسين العمليات<img width="425" height="81" alt="image" src="https://github.com/user-attachments/assets/a814b72c-6c21-445d-ab53-444b55c188f9" />
+من خلال دمج الذكاء الاصطناعي - : رفع الإنتاجية وتحسين العمليات<img width="425" height="81" alt="image" src
+                                                                ="https://github.com/user-attachments/assets/a814b72c-6c21-445d-ab53-444b55c188f9" />
 
 <img width="788" height="279" alt="image" src="https://github.com/user-attachments/assets/a418ae1b-1ae2-444a-b6d7-469bd1ac0628" />
 
